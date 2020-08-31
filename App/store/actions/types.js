@@ -1,0 +1,9 @@
+export const COUNTER_ADD = 'COUNTER_ADD';
+export const COUNTER_SUBTRACT = 'COUNTER_SUBTRACT';
+export const USER_DETAILS = 'USER_DETAILS';
+
+export const VALIDATION_ERROR = 'VALIDATION_ERROR';
+export const SERVER_ERROR = 'SERVER_ERROR';
+export const UNAUTHORIZED = 'UNAUTHORIZED';
+export const LOGOUT = 'LOGOUT';
+export const LOADING = 'LOADING';
